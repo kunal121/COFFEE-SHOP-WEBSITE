@@ -1,0 +1,9 @@
+.form{
+  padding-left: 20%;
+}
+input[type=checkbox]{
+  transform: scale(2);
+}
+label{
+  padding: 10px;
+}
