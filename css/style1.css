@@ -1,9 +1,23 @@
 .form{
-  padding-left: 20%;
+  margin-left: 25%;
+background-color: #FFCE00;
 }
 input[type=checkbox]{
   transform: scale(2);
 }
 label{
-  padding: 10px;
+  padding: 30px;
+}
+.images{
+  padding-top: 80px;
+}
+h2
+{
+  margin-left: 30%;
+  color: purple;
+
+}
+body{
+  background-repeat: no-repeat;
+
 }
